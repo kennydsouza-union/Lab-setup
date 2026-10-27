@@ -3,7 +3,7 @@
 My personal Kali Linux lab setup for learning penetration testing and CTFs.
 
 ## Environment
-- **OS:** Kali Linux (version: ___)
+- **OS:** Kali Linux
 - **Platform:** VirtualBox / VMware / Dual boot (pick one)
 - **Network mode:** NAT / Bridged (pick one) i choose NAT
 
